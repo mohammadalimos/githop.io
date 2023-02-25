@@ -1,16 +1,18 @@
-image {
-    filter: brightness(80%);
-}
 
-image:hover {
-    filter: none;
-}
 
 p {
     margin: 1.2em;
     font-size: 14px;
     text-align: right;
     direction: rtl;
+}
+
+image {
+    filter: brightness(80%);
+}
+
+image:hover {
+    filter: none;
 }
 
 .pic {
