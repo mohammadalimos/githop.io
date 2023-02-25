@@ -1,20 +1,20 @@
 
 
-.p {
+p {
     margin: 1.2em;
     font-size: 14px;
     text-align: right;
     direction: rtl;
 }
 
-.image {
+image {
     filter: brightness(80%);
 }
 
-.image:hover {
+image:hover {
     filter: none;
 }
 
-.pic {
+pic {
     padding: 1px;
 }
