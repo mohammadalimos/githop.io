@@ -7,11 +7,11 @@ p {
     direction: rtl;
 }
 
-image {
+img {
     filter: brightness(80%);
 }
 
-image:hover {
+img:hover {
     filter: none;
 }
 
