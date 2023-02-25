@@ -15,6 +15,6 @@ img:hover {
     filter: none;
 }
 
-pic {
-    padding: 1px;
+.pic {
+    padding: 2px;
 }
