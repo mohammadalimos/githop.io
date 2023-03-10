@@ -11,10 +11,12 @@ img {
     filter: brightness(80%);
 }
 
+.pic {
+    padding: 2px;
+}
+
 img:hover {
     filter: none;
 }
 
-.pic {
-    padding: 2px;
-}
+
